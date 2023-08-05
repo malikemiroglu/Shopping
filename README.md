@@ -6,10 +6,9 @@ React kütüphanesi ile bir alışveriş sitesi örneği yaparak kendimi gelişt
 - Ürünleri listeleyen kartlar
 - Sepete ürün ekleme, çıkarma ve sepetten ürün silme
 - Sepete en fazla stocktaki kadar ürün eklenebilir stock bittiyse sepete ekle butonu kapanır.
-- Sepetten en fazla 1 ürün kalana kadar ürün çıkartılır.
+- Sepetten sadece 1 ürün kalana kadar ürün çıkartılır.
 - Sepet özetini görüntüleme
 - İndirim kuponu uygulama. İndirim kuponunu uygulamak için "indirim" yazın.
-- Alışveriş onaylama
 
 ## Kurulum ve Kullanım
 
