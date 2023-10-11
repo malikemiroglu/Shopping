@@ -1,25 +1,26 @@
-# Alışveriş Uygulaması
-
-React kütüphanesi ile bir alışveriş sitesi örneği yaparak kendimi geliştirmek istedim. Datalarımı dosyalarımın arasında oluşturdum.
-
-## Özellikler
-- Ürünleri listeleyen kartlar
-- Sepete ürün ekleme, çıkarma ve sepetten ürün silme
-- Sepete en fazla stocktaki kadar ürün eklenebilir stock bittiyse sepete ekle butonu kapanır.
-- Sepetten sadece 1 ürün kalana kadar ürün çıkartılır.
-- Sepet özetini görüntüleme
-- İndirim kuponu uygulama. İndirim kuponunu uygulamak için "indirim" yazın.
-
-## Kurulum ve Kullanım
-
-1. Proje klasörünü klonlayın:
-`git clone https://github.com/malikemiroglu/Shopping.git`
-`cd proje-klasörü`
-
-2.  Gerekli bağımlılıkları yükleyin:
-`Node.js kurulu olmalıdır.`
-`npm install`
-
-3. Projeyi çalıştırın:
-`npm run dev`
-- Proje artık http://localhost:3000 adresinde çalışıyor olmalıdır.
+ # Shopping App 
+ I wanted to improve myself by making a shopping website example with the React library. I created my data among my files. 
+ 
+![ShoppingApp](./src/img/shoppingReact.png)
+ 
+ ## Features 
+ - Cards listing products 
+ - Adding, removing and deleting products from the cart 
+ - A maximum of products in stock can be added to the cart. If the stock runs out, the add to cart button will be closed. 
+ - The product is removed from the basket until only 1 product remains. 
+ - View cart summary 
+ - Discount coupon application. Type "discount" to apply the discount coupon. 
+ 
+ ## Installation and Usage 
+ 
+ 1. Clone the project folder: 
+ ` git clone https://github.com/malikemiroglu/Shopping.git ` 
+ ` cd project-folder ` 
+ 
+ 2. Install the required dependencies: 
+ ` Node.js must be installed. ` 
+ ` npm install` 
+ 
+ 3. Run the project: 
+ ` npm run dev` 
+ - The project should now be running at http://localhost:3000. 
